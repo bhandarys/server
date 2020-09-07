@@ -1,0 +1,21 @@
+{
+    "fathers": [ "Alan", "Martin", "Tom", "Jeremy", "Jerry"],
+    "children": ["Robin", "Charlie", "Colin", "Max", "Ben"],
+    "fathers_full": [
+        {"fname": "Alan", "lname": "Thicke"},
+        {"fname": "Martin", "lname": "Sheen"},
+        {"fname": "Tom", "lname": "Hanks"},
+        {"fname": "Jeremy", "lname": "Irons"},
+        {"fname": "Jerry", "lname": "Stiller"},
+        {"fname": "Harrison", "lname": "Ford"}
+    ],
+    "children_full": [
+        {"fname": "Robin", "lname": "Thicke"},
+        {"fname": "Charlie", "lname": "Sheen"},
+        {"fname": "Colin", "lname": "Hanks"},
+        {"fname": "Max", "lname": "Irons"},
+        {"fname": "Ben", "lname": "Stiller"},
+        {"fname": "Joey", "lname": "King"},
+        {"fname": "Veronika", "lname": "Bonell"}
+    ]
+}
